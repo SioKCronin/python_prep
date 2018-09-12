@@ -12,13 +12,13 @@ on LeetCode or Hackerrank. It also assumes you have stirred up an authentic curi
 theory and in the wild, as this journey will require your keenest pattern-matching skillz!
 
 ### Dynamic Programming
-### Recursion
+### Binary trees
 ### Tree Traversal
-### Paths and Circuits
+### Graph Traversal 
 ### BFS
 ### DFS
-### Dijkstra
+### Dijksra
 ### A*
-### Binary trees
+### Bellman-Ford
 ### Priority Queues with Heaps
 ### Sorting
