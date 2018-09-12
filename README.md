@@ -1,11 +1,10 @@
-# Python Interview Patterns
+# Python Prep
 
-Technical interviews are designed to assess your knowlege of core computer science concepts, including data structures
-and algorithms, as well as your ability to apply these concepts to novel problems. 
-
-My aim is to help you identify design patterns for the common structures and problem types you'll encounter in interviews. 
-This will help prime your mind for possible solutions, as well as provide you with a resource you can reference to
-refresh your memory before a screening or onsite. 
+My aim is to help you identify patterns that show up in the common data structures and algorithms you'll encounter in
+technical interviews and on the job as an engineer. We will look at a variety of algorithms, yet now with the goal 
+to memorize them, but rather to spot patterns. When do we use a 'while' loops? When do we use a dictionary vs. a 
+list for memos? What is the overlapping subproblem in dynamic programming? By studying patterns we can prime our 
+creative minds to spot possible approaches to novel problems.
 
 This book assumes you've already learned the basics (strings, lists, dicts, sets, etc.) and have been trying out problems 
 on LeetCode or Hackerrank. It also assumes you have stirred up an authentic curiosity about how algorithms behave in 
