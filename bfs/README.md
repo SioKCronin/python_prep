@@ -2,6 +2,10 @@
 
 ## Connected component
 
+A connected component of an undirected graph is a subgraph such that any two nodes in the subgraph are connected to 
+each by a path. Interestingly, **strongly** connected component is a subgraph of a directed graph where every node is
+reachable from both directions.  
+
 ```
 def bfs_connected_component(graph, start):
     explored = []
