@@ -1,4 +1,4 @@
-# Python Quickstart
+# Python Interview Patterns
 
 Technical interviews are designed to assess your knowlege of core computer science concepts, including data structures
 and algorithms, as well as your ability to apply these concepts to novel problems. 
@@ -13,6 +13,7 @@ theory and in the wild, as this journey will require your keenest pattern-matchi
 
 ## Data Structures
 
+### Linked lists
 ### Stacks
 ### Queues
 ### Priority queues
