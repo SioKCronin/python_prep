@@ -18,7 +18,7 @@
 
 ### A*
 
-#### Binary trees
+### Binary trees
 
 ### Priority Queues with Heaps
 
