@@ -11,14 +11,12 @@ This book assumes you've already learned the basics (strings, lists, dicts, sets
 on LeetCode or Hackerrank. It also assumes you have stirred up an authentic curiosity about how algorithms behave in 
 theory and in the wild, as this journey will require your keenest pattern-matching skillz!
 
-### Dynamic Programming
-### Binary trees
-### Tree Traversal
-### Graph Traversal 
+### Sorting
+### Binary search trees
 ### BFS
 ### DFS
 ### Dijksra
 ### A*
 ### Bellman-Ford
 ### Priority Queues with Heaps
-### Sorting
+### Dynamic Programming
