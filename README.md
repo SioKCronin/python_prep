@@ -12,6 +12,7 @@ on LeetCode or Hackerrank. It also assumes you have stirred up an authentic curi
 theory and in the wild, as this journey will require your keenest pattern-matching skillz!
 
 ### Sorting
+### Topological sorting
 ### Binary search trees
 ### BFS
 ### DFS
