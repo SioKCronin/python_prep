@@ -1,4 +1,4 @@
-# Python Patterns
+# Python Prep
 
 My aim is to help you identify patterns that show up in the common data structures and algorithms you'll encounter in
 technical interviews and on the job as an engineer. We will look at a variety of algorithms, yet now with the goal 
