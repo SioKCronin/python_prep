@@ -24,7 +24,7 @@ the wild, as this is what is needed most to succeed!
 ### Topological sorting
 ### BFS
 ### DFS
-### Dijksra
+### Dijkstra
 ### A*
 ### Bellman-Ford
 ### Priority Queues with Heaps
