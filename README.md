@@ -21,7 +21,6 @@ the wild, as this is what is needed most to succeed!
 ## Algorithms
 
 ### Sorting
-### Topological sorting
 ### BFS
 ### DFS
 ### Dijkstra
