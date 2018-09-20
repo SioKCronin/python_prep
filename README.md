@@ -1,14 +1,14 @@
 # Python Prep
 
-My aim is to help you identify patterns that show up in the common data structures and algorithms you'll encounter in
-technical interviews and on the job as an engineer. We'll look at a variety of algorithms with the goal of spotting 
-patterns. When do we use a 'while' loops? When do we use a dictionary vs. a list for memos? What is the overlapping 
-subproblem in dynamic programming qeustions? By studying patterns we will prime our minds to spot possible approaches to novel
-problems, like a shaman traipsing the woods trains themselves to spot medicinal plants.
+My goal of this book is to help you identify patterns that show up in the common data structures and algorithms problems
+you'll encounter in technical interviews and on the job as an engineer. We'll look at a variety of problems with the goal 
+of spotting patterns. When should we use a 'while' loops? When does a dictionary work better than a list as a memo? What 
+is the overlapping subproblem in dynamic programming qeustions? By studying patterns we prime our minds to spot 
+possible approaches to novel problems, just as a shaman walking the woods trains themselves to spot medicinal plants.
 
-This guide assumes you've already learned the basics (strings, lists, dicts, sets, etc.) and have tried out some problems 
+These materials assume you've already learned the basics (strings, lists, dicts, sets, etc.) and have tried out some problems 
 on LeetCode or Hackerrank. It also assumes you have stirred up an authentic curiosity about how algorithms behave in 
-the wild, as this is what is needed most to succeed!
+the wild!
 
 ## Data Structures
 
