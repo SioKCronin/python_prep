@@ -29,3 +29,4 @@ the wild, as this is what is needed most to succeed!
 ### Bellman-Ford
 ### Priority Queues with Heaps
 ### Dynamic Programming
+### [Backtracking](https://github.com/SioKCronin/python_prep/tree/master/backtracking)
