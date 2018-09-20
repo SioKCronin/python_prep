@@ -15,8 +15,7 @@ the wild!
 ### [Sorting](https://github.com/SioKCronin/python_prep/tree/master/sorting)
 ### BFS
 ### [DFS](https://github.com/SioKCronin/python_prep/tree/master/dfs)
-### Dijkstra
-### A*
+### Dijkstra / A*
 ### Bellman-Ford
 ### Priority Queues with Heaps
 ### [Dynamic Programming](https://github.com/SioKCronin/python_prep/tree/master/dynamic_programming)
