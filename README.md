@@ -27,5 +27,5 @@ the wild, as this is what is needed most to succeed!
 ### A*
 ### Bellman-Ford
 ### Priority Queues with Heaps
-### Dynamic Programming
+### [Dynamic Programming](https://github.com/SioKCronin/python_prep/tree/master/dynamic_programming)
 ### [Backtracking](https://github.com/SioKCronin/python_prep/tree/master/backtracking)
