@@ -10,14 +10,6 @@ These materials assume you've already learned the basics (strings, lists, dicts,
 on LeetCode or Hackerrank. It also assumes you have stirred up an authentic curiosity about how algorithms behave in 
 the wild!
 
-## Data Structures
-
-### Linked lists
-### Stacks
-### Queues
-### Priority queues
-### Binary search trees
-
 ## Algorithms
 
 ### [Sorting](https://github.com/SioKCronin/python_prep/tree/master/sorting)
