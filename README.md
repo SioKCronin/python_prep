@@ -22,7 +22,7 @@ the wild, as this is what is needed most to succeed!
 
 ### [Sorting](https://github.com/SioKCronin/python_prep/tree/master/sorting)
 ### BFS
-### DFS
+### [DFS](https://github.com/SioKCronin/python_prep/tree/master/dfs)
 ### Dijkstra
 ### A*
 ### Bellman-Ford
