@@ -20,7 +20,7 @@ the wild, as this is what is needed most to succeed!
 
 ## Algorithms
 
-### Sorting
+### [Sorting](https://github.com/SioKCronin/python_prep/tree/master/sorting)
 ### BFS
 ### DFS
 ### Dijkstra
