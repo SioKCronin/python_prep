@@ -13,7 +13,7 @@ the wild!
 ## Algorithms
 
 ### [Sorting](https://github.com/SioKCronin/python_prep/tree/master/sorting)
-### BFS
+### [BFS](https://github.com/SioKCronin/python_prep/tree/master/bfs)
 ### [DFS](https://github.com/SioKCronin/python_prep/tree/master/dfs)
 ### Dijkstra / A*
 ### Bellman-Ford
