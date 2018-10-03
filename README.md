@@ -15,7 +15,7 @@ the wild!
 ### [Sorting](https://github.com/SioKCronin/python_prep/tree/master/sorting)
 ### [BFS](https://github.com/SioKCronin/python_prep/tree/master/bfs)
 ### [DFS](https://github.com/SioKCronin/python_prep/tree/master/dfs)
-### [Dijkstra](https://github.com/SioKCronin/python_prep/tree/master/dijkstra) / A*
+### [Dijkstra](https://github.com/SioKCronin/python_prep/tree/master/dijkstra)
 ### [Bellman-Ford](https://github.com/SioKCronin/python_prep/tree/master/bellman_ford)
 ### [Dynamic Programming](https://github.com/SioKCronin/python_prep/tree/master/dynamic_programming)
 ### [Backtracking](https://github.com/SioKCronin/python_prep/tree/master/backtracking)
