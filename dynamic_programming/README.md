@@ -77,3 +77,22 @@ two quarters and two dimes), but how would you write that up as an algorithm?
 
 Like our Top Down approach above, we'll need some way to keep track of our memos,
 so let's kick things off with a list of 0s.
+
+```
+def dp_coin_changer(coin_value_list, change, i, memo=[]):
+    if i == -1:
+        return -1
+
+    memo.append(coin_value_list[i])
+    s = round(sum(memo), 2)
+
+    if s < change:
+        return dp_coin_changer(coin_value_list, change, i, memo)
+
+    if s > change:
+        memo.pop()
+        i -= 1
+        return dp_coin_changer(coin_value_list, change, i, memo)
+
+    return len(memo)
+```
