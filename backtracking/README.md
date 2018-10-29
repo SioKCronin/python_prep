@@ -35,7 +35,7 @@ permutation([1, 2, 3], 0, 2)
 To see what's happening, let's look first at what the for loop is doing in the `else`
 statement. It is progressing through possible start positions, and swapping them
 with indices further and further in the list. Notice how it starts by swapping the `start` (0)
-with the first `i` (0) so is essentialy starting the first number in the list (1) with itself. 
+with the first `i` (0) so is essentialy swapping the first number in the list (1) with itself. 
 We see that in the output, as the first two permutations printed start with the number 1. 
 
 From there, the recursive call advances through the start positions, swapping as it goes, 
