@@ -26,24 +26,17 @@ def bfs_connected_component(graph, start):
 
 ```
 def bfs_shortest_path(graph, start, goal):
-    explored = []
     queue = [[start]]
-
-    if start == goal:
-        return "Found it!"
 
     while queue:
         path = queue.pop(0)
         node = path[-1]
-        if node not in explored:
-            neighbors = graph[node]
-            for neighbor in neighbors:
-                new_path = list(path)
-                new_path.append(neighbor)
-                queue.append(new_path)
-                if neighbor == goal:
-                    return new_path
-
-            explored.append(node)
+        if node == goal:
+            return path
+        for neighbor in graph[node]:
+            new_path = list(path)
+            new_path.append(neighbor)
+            queue.append(new_path)
+            
     return "No path connecting"
 ```
