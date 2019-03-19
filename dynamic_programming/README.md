@@ -18,7 +18,7 @@ def nth_fibonnaci_recursive(n):
     if n <= 0: return 0
     if n == 1: return 1
     else: 
-        return nth_fibonnaci_recursive(n-1) + nth_fibonnaci_recursive(n-1) 
+        return nth_fibonnaci_recursive(n-2) + nth_fibonnaci_recursive(n-1) 
 ```
 It's tidy code, but we're stacking up to O(2^n) as we're adding two calls to the
 callstack for each pass through. And there's a redundancy across the branches.
